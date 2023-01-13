@@ -1,0 +1,23 @@
+{
+    "viewMore": "Mehr sehen",
+
+    "home_recipe" : "Entdecken Sie das tägliche Rezept mit einem Fingertipp",
+    "home_popular" : "Am beliebtesten",
+    "home_articles" : "Nachrichtenartikel",
+    "home_product" : "Neues Produkt",
+
+    "category_title" : "Kategorie",
+
+    "search_btn" : "Suche",
+
+    "item_details_characteristic" : "Merkmal",
+    "item_details_property" : "Eigenschaft",
+    "item_details_manual" : "Manual",
+
+    "profile_languages" : "Sprachen",
+    "profile_theme" : "Thema",
+
+    "@home": {
+        "description": "Startbildschirm"
+    }
+}

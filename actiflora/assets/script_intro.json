@@ -1,0 +1,33 @@
+{
+  "English" : {
+    "descri" : [
+      "PHAEL FLOR is a Malagasy family business",
+      "Organic certified essential oils under the ACTIFLORA brand.",
+      "Characteristics of all Essential Oils."
+    ],
+
+    "start" : "start",
+    "next" : "next",
+    "prev" : "previous"
+  },
+  "Deutsch" : {
+    "descri" : [
+      "PHAEL FLOR ist ein madagassisches Familienunternehmen.\"",
+      "Öko-zertifizierte ätherische Öle der Marke ACTIFLORA.",
+      "Eigenschaften aller ätherischen Öle."
+    ],
+    "start" : "Anfang",
+    "next" : "nächste",
+    "prev" : "früher"
+  },
+  "Français" : {
+    "descri" : [
+      "PHAEL FLOR est une entreprise familiale Malagasy.",
+      "Huiles essentielles certifiées BIO sous la marque ACTIFLORA.",
+      "Les caractéristiques des toutes les Huiles essentielles."
+    ],
+    "start" : "commencer",
+    "next" : "suivant",
+    "prev" : "precedant"
+  }
+}

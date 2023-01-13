@@ -1,0 +1,23 @@
+{
+   "viewMore": "View more",
+
+    "home_recipe" : "Explore daily recipe within a tap",
+    "home_popular" : "Most popular",
+    "home_articles" : "New articles",
+    "home_product" : "New products",
+
+    "category_title" : "category",
+
+    "search_btn" : "search",
+
+    "item_details_characteristic" : "characteristic",
+    "item_details_property" : "property",
+    "item_details_manual" : "manual",
+
+    "profile_languages" : "Languages",
+    "profile_theme" : "Themes",
+
+    "@home": {
+        "description": "Home screen"
+    }
+}

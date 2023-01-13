@@ -1,0 +1,24 @@
+{
+    "viewMore": "Voire plus",
+
+    "home_recipe" : "Explorez la recette quotidienne en un clic",
+    "home_popular" : "Les plus populaires",
+    "home_articles" : "Articles d'actualité",
+    "home_product" : "Nouveau produit",
+
+
+    "category_title" : "Categorie",
+
+    "search_btn" : "Rechercher",
+
+    "item_details_characteristic" : "Carracteristique",
+    "item_details_property" : "Propriete",
+    "item_details_manual" : "Mode d'emploie",
+
+    "profile_languages" : "Languages",
+    "profile_theme" : "Thèmes",
+
+    "@home": {
+        "description": "Écran d'accueil"
+    }
+}

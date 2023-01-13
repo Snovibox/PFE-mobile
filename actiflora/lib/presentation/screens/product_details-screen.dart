@@ -132,7 +132,7 @@ class HeaderTabProduct extends StatelessWidget{
             ),
           ),
         ),
-a      ],
+      ],
     );
   }
 }
